@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483111926261",
+    "project_id": "brew-crew-84aab",
+    "storage_bucket": "brew-crew-84aab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483111926261:android:1c3815ff574ff73c8a88bc",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtgbPUVbk3gAnfTI_U27MhyAfmcH-v0sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
